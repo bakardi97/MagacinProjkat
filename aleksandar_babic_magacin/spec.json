@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "aleksandar_babic_magacin",
+    "name": "Aleksandar Babic",
+    "size": 60,
+    "category": "magacin",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Vodjenje proizvoda unutar magacina po halama."
+}
